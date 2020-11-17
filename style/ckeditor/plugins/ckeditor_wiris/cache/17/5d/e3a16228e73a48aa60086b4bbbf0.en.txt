@@ -1,0 +1,1 @@
+{"result":{"text":"straight b root index plus-or-minus of 2\n\nopen parentheses b space plus-or-minus close parentheses square root of 2"},"status":"ok"}
